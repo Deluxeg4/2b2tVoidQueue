@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+**/build/
+eula.txt
+logs/
+plugins/
+world/
+world_nether/
+world_the_end/
+*.log
